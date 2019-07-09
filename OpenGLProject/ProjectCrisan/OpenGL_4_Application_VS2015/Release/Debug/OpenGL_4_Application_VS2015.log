@@ -1,0 +1,12 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\shader_s.h(51): warning C4101: 'infoLog': unreferenced local variable
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\shader_s.h(50): warning C4101: 'success': unreferenced local variable
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(590): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(591): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(596): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(598): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(599): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\opengl_4_application_vs2015.cpp(608): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'glfw3.lib'

@@ -1,0 +1,18 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\shader_s.h(51): warning C4101: 'infoLog': unreferenced local variable
+d:\utcn\an 3\semestrul 1\gps\project crisan\opengl_4_application_vs2015\release\shader_s.h(50): warning C4101: 'success': unreferenced local variable
+OpenGL_4_Application_VS2015.cpp(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(605): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(606): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(608): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(618): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 1032 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL_4_Application_VS2015.vcxproj -> D:\UTCN\An 3\Semestrul 1\GPS\project Crisan\OpenGL_4_Application_VS2015\Release\Release\OpenGL_4_Application_VS2015.exe
+  OpenGL_4_Application_VS2015.vcxproj -> D:\UTCN\An 3\Semestrul 1\GPS\project Crisan\OpenGL_4_Application_VS2015\Release\Release\OpenGL_4_Application_VS2015.pdb (Full PDB)

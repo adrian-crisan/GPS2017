@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  glad.c
+glad.c(24): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+LINK : fatal error LNK1181: cannot open input file 'assimpd.lib'
